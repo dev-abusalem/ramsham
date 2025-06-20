@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap");
+
+.vn_submenu1_wrapper:hover .vn_submenu1 {
+  left: 0;
+  opacity: 1;
+  visibility: visible;
+}
+.vn_submenu1 {
+  background: #fff;
+  border-radius: 0 0 5px 5px;
+  border-top: 0;
+  left: -20px;
+  margin-left: -3.75rem;
+  max-width: none;
+  height: auto;
+  opacity: 0;
+  padding: 1.875rem 2.875rem;
+  position: absolute;
+  top: 4.6875rem;
+  width: 18.75rem;
+  visibility: hidden;
+}
